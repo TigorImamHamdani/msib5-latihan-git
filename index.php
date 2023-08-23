@@ -34,11 +34,13 @@
 
     <section class="desc">
         <div class="desc-text">
-            <h5>Hello, My name is</h5>
+            <h5>Hello, Nama Saya</h5>
             <h1>Tigor Imam Hamdani</h1>
             <h4>Saya dari Politeknik Negeri Malang</h4>
             <h4>Jurusan Teknologi Informasi</h4>
             <h4>Prodi Sistem Informasi Bisnis</h4>
+            <h4>Sekarang mengikuti Studi Independen di PT GITS Indonesia</h4>
+            <h4>Sebagai Full Stack Web Developer</h4>
             <br>
             <a href="https://www.instagram.com/tigorimam/">Contact Me <i class="ri-instagram-line"></i></a>
             <a href="https://github.com/TigorImamHamdani">Github <i class="ri-github-line"></i></a>
@@ -48,5 +50,10 @@
             <img src="images/main.png" width="300" heigth="300">
         </div>
     </section>
+
+    <!---Custom js link --->
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <!---Custom js --->
+    <script src="js/script.js"></script>
 </body>
 </html>
