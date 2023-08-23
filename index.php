@@ -8,13 +8,9 @@
     <!---Style css--->
     <link rel="stylesheet" href="css/style.css" />
     
-    <!---Icon Boxicon & Remixicon--->
-     <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
-     <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+    <!---Icon Remixicon--->
      <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
     <!---Google Font--->
-     <link rel="preconnect" href="https://fonts.googleapis.com">
-     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
      <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
 </head>
 <body>
